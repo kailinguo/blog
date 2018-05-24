@@ -85,10 +85,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 links:
   - title: cron
     url: https://kailinguo.github.io/cron
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: keyboard
+    url: https://kailinguo.github.io/keyboard
 
 timeline:
   - num: 1
