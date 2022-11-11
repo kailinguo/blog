@@ -1,5 +1,5 @@
 ---
-title: Hexo搭建流程
+title: Hexo 环境搭建
 date: 2022-11-11 13:36:18
 categories:
 - 环境搭建
